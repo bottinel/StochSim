@@ -1,7 +1,7 @@
 # Coagulation and gelation phenomena
 This repo contains the notebook we used for this project.
 
-## project_coagulation_123.ipynb
+## Project_coagulation_123.ipynb
 This notebook contains the functions and main loop to compute the necessary results for part 1,2, and 3 of the project, which focus on a crude monte carlo algorithm to compute mean and confidence intervals for some key features in gelation phenomena, the concentration average, the moments, and the gelation time.
 
 ### Key components
@@ -16,7 +16,7 @@ This notebook contains the functions and main loop to compute the necessary resu
 This notebook contains the loading and the plotting part for the results for part 2 and 3.
 
 
-## Project Coagulation Importance
+## Project_coagulation_importance.ipynb
 This part of the project focuses on the importance sampling of `c_k` in the context of coagulation processes. For simplicity this notebook contains the same functions as before, but with some key differences to achieve importance sampling
 
 ### Key Components
